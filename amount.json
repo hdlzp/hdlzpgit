@@ -1,0 +1,14 @@
+{
+	"bizid": "null",
+	"reqsn": "null",
+	"ressn": "716d0f83a4584786990f8f0b10938837",
+	"restime": "20220402135957825",
+	"status": "success",
+	"code": "0",
+	"msg": "成功",
+	"stype": "0",
+	"skey": "",
+	"resdata": {
+		"amount": "110.00"
+	}
+}
